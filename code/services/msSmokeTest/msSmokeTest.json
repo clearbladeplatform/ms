@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,ms",
+    "logging_enabled": "false",
+    "name": "msSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "msSmokeTest.js"
+}
